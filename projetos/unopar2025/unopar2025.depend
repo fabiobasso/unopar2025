@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1763159326 source:c:\projetos\unopar2025\utilidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
